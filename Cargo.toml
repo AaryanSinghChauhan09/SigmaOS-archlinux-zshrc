@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-zshrc component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-zshrc"
+name = "sigmaos_archlinux_zshrc"
 path = "src/lib.rs"
